@@ -7,7 +7,7 @@ define('DB_NAME', 'e_aspirasi');
 define('DB_USER', 'root'); // sesuaikan
 define('DB_PASS', ''); // sesuaikan
 define('APP_NAME', 'E-Aspirasi SMK MUHAMMADIYAH MAJENANG');
-define('BASE_URL', '/aspirasi_arya'); // sesuaikan dengan lokasi folder project
+define('BASE_URL', '/e_aspirasi'); // sesuaikan dengan lokasi folder project
 // ---- Pengamanan session ----
 ini_set('session.cookie_httponly', '1');
 ini_set('session.use_strict_mode', '1');
